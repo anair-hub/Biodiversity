@@ -1,19 +1,19 @@
 # Belly Button Biodiversity Dashboard 
   ## Project Information 
-      Roza's requirement was to complete panel for demographic information and needs to visualize the bacterial data for each volunteer.  
+      Roza's requirement was to complete panel for demographic information and needed to visualize the bacterial data for each volunteer.  
 
   ## Project Details:
     ### Deliverable 1: Create a Horizontal Bar Chart
     
   ![deliverable1a](static/images/deliverable1a.PNG)
 
-  ![deliverable1b](images/deliverable1b.PNG)
+  ![deliverable1b](static/images/deliverable1b.PNG)
 
     ### Deliverable 2: Create a Bubble Chart
 
-     ![Deliverable2a](Images/Deliverable2a.PNG)
+   ![delievrable2a](static/images/deliverable2a.PNG)
 
-     ![Deliverable2b](Images/Deliverable2b.PNG)
+   ![deliverable2b](static/images/deliverable2b.PNG)
 
     ### Deliverable 3: Create a Gauge Chart
 
