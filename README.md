@@ -7,7 +7,7 @@
     
   ![deliverable1a](images/deliverable1a.PNG)
 
-  ![Deliverable1b](Images/Deliverable1b.PNG)
+  ![deliverable1b](images/deliverable1b.PNG)
 
     ### Deliverable 2: Create a Bubble Chart
 
