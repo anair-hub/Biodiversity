@@ -4,10 +4,9 @@
 
   ## Project Details:
     ### Deliverable 1: Create a Horizontal Bar Chart
-      
-![Deliverable1a](Images/Deliverable1a.PNG)
+  ![Deliverable1a](Images/Deliverable1a.PNG)
 
-   ![Deliverable1b](Images/Deliverable1b.PNG)
+  ![Deliverable1b](Images/Deliverable1b.PNG)
 
     ### Deliverable 2: Create a Bubble Chart
 
