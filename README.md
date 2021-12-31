@@ -4,7 +4,7 @@
 
   ## Project Details:
     ### Deliverable 1: Create a Horizontal Bar Chart
-  ![Deliverable1a](Images/Deliverable1a.PNG)
+  ![Deliverable1a](images/Deliverable1a.PNG)
 
   ![Deliverable1b](Images/Deliverable1b.PNG)
 
