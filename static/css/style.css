@@ -1,0 +1,21 @@
+ body {
+
+  color: maroon;
+  font-weight: bold;
+  } 
+/* 
+  div.container div.jumbotron h1 {
+    color: white
+  } */
+  
+
+.jumbotron {
+    background-image: url("../images/test-tube.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  /* div.container div.jumbotron h1 {
+    color: white
+  } */
+  
