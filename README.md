@@ -23,24 +23,28 @@
 
     ### Deliverable 4: Customize the Dashboard
     
+    Add an image to the jumbotron.
    ![deliverable4a](static/images/deliverable4a.PNG)
 
+    Use a custom font with contrast for the colors.
    ![deliverable4b](static/images/deliverable4b.PNG)
-
+   
+   Add background color or a variety of compatible colors to the webpage.
+   Change the layout of the page.
    ![deliverable4c](static/images/deliverable4c.PNG)
 
+   Add more information about the project as a paragraph on the page.
    ![deliverable4d](static/images/deliverable4d.PNG)
-
+   
+   Make the webpage mobile-responsive.
    ![deliverable4e](static/images/deliverable4e.PNG)
 
+   Make the webpage mobile-responsive.
    ![deliverable4f](static/images/deliverable4f.PNG)
 
-    Add an image to the jumbotron.
-    Add background color or a variety of compatible colors to the webpage.
-    Use a custom font with contrast for the colors.
-    Add more information about the project as a paragraph on the page.
-    Add information about what each graph visualizes, either under or next to each graph.
-    Make the webpage mobile-responsive.
-    Change the layout of the page.
+    
+    
+     
+    
 
 
