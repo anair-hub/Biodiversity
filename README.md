@@ -11,29 +11,29 @@
 
     ### Deliverable 2: Create a Bubble Chart
 
-   ![delievrable2a](static/images/deliverable2a.PNG)
+   ![deliverable2a](static/images/deliverable2a.PNG)
 
    ![deliverable2b](static/images/deliverable2b.PNG)
 
     ### Deliverable 3: Create a Gauge Chart
 
-     ![Deliverable3a](Images/Deliverable3a.PNG)
+   ![deliverable3a](static/images/deliverable3a.PNG)
 
-     ![Deliverable3b](Images/Deliverable3b.PNG)
+   ![deliverable3b](static/images/deliverable3b.PNG)
 
     ### Deliverable 4: Customize the Dashboard
     
-     ![Deliverable4a](Images/Deliverable4a.PNG)
+   ![deliverable4a](static/images/deliverable4a.PNG)
 
-     ![Deliverable4b](Images/Deliverable4b.PNG)
+   ![deliverable4b](static/images/deliverable4b.PNG)
 
-     ![Deliverable4c](Images/Deliverable4c.PNG)
+   ![deliverable4c](static/images/deliverable4c.PNG)
 
-     ![Deliverable4d](Images/Deliverable4d.PNG)
+   ![deliverable4d](static/images/deliverable4d.PNG)
 
-     ![Deliverable4e](Images/Deliverable4e.PNG)
+   ![deliverable4e](static/images/deliverable4e.PNG)
 
-     ![Deliverable4f](Images/Deliverable4f.PNG)
+   ![deliverable4f](static/images/deliverable4f.PNG)
 
     Add an image to the jumbotron.
     Add background color or a variety of compatible colors to the webpage.
